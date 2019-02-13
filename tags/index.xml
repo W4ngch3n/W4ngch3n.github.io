@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 斯人若彩虹，遇上方知有</title>
+    <link>https://W4ngch3n.github.io/tags/</link>
+    <description>Recent content in Tags on 斯人若彩虹，遇上方知有</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    
+	<atom:link href="https://W4ngch3n.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>宠物</title>
+      <link>https://W4ngch3n.github.io/tags/%E5%AE%A0%E7%89%A9/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://W4ngch3n.github.io/tags/%E5%AE%A0%E7%89%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>情感</title>
+      <link>https://W4ngch3n.github.io/tags/%E6%83%85%E6%84%9F/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://W4ngch3n.github.io/tags/%E6%83%85%E6%84%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>转载</title>
+      <link>https://W4ngch3n.github.io/tags/%E8%BD%AC%E8%BD%BD/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://W4ngch3n.github.io/tags/%E8%BD%AC%E8%BD%BD/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

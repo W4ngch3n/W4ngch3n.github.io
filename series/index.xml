@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on 斯人若彩虹，遇上方知有</title>
+    <link>https://W4ngch3n.github.io/series/</link>
+    <description>Recent content in Series on 斯人若彩虹，遇上方知有</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    
+	<atom:link href="https://W4ngch3n.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>唏嘘</title>
+      <link>https://W4ngch3n.github.io/series/%E5%94%8F%E5%98%98/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://W4ngch3n.github.io/series/%E5%94%8F%E5%98%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>情不知所起一往情深</title>
+      <link>https://W4ngch3n.github.io/series/%E6%83%85%E4%B8%8D%E7%9F%A5%E6%89%80%E8%B5%B7%E4%B8%80%E5%BE%80%E6%83%85%E6%B7%B1/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://W4ngch3n.github.io/series/%E6%83%85%E4%B8%8D%E7%9F%A5%E6%89%80%E8%B5%B7%E4%B8%80%E5%BE%80%E6%83%85%E6%B7%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>随笔</title>
+      <link>https://W4ngch3n.github.io/series/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://W4ngch3n.github.io/series/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
